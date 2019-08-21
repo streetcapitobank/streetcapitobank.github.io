@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Street Capito APP",
-    "currentPage": "Street Capito App.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1175,7 +1175,7 @@
         }
       ]
     },
-    "Street Capito App.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "Street Capito App",
